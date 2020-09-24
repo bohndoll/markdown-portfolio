@@ -1,1 +1,2 @@
-Replace this with your name, and include a header.
+#this is my static website
+##a new beginning of a new exciting journey!
